@@ -1,1 +1,2 @@
-"Hello Git"     # Creates a file with content
+"hello world" 
+"extra info "
